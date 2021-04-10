@@ -10,9 +10,9 @@ const SCP = scp.map(
             <div key={scp}>
                 <b><h2>{scp.subject}</h2></b>
                 
-                <p> <b>Object class: </b>  {scp.class}</p>
-                <p> <b>Special Containment Procedures: </b> {scp.containment}</p>
-                <p> <b>Description: </b> {scp.description}</p>
+                <p class="text-justify"> <b>Object class: </b>  {scp.class}</p>
+                <p class="text-justify"> <b>Special Containment Procedures: </b> {scp.containment}</p>
+                <p class="text-justify"> <b>Description: </b> {scp.description}</p>
                 
                 <hr></hr>
            </div>
