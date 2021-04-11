@@ -12,7 +12,7 @@ class Header extends Component
       <div className="row">
         <div className="col-sm-8 col-md-7 py-4">
           <h4 className="text-white">About this single page react application</h4>
-          <p className="text-muted">This react application is created for COMP 6210. This is an assignment one. This is designed and developed by Aditya Dhungana - 30038063</p>
+          <p className="text-muted">This react application is created for COMP 6210. The app is designed and developed by Aditya Dhungana - 30038063</p>
         </div>
       </div>
     </div>
